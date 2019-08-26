@@ -19,6 +19,17 @@ body {
   background: #fff;
 }
 
+.footer-head{
+  font-size: 140%;
+  margin: 0;
+  padding: 0;
+  text-transform: uppercase;
+  font-weight: 700;
+  font-family: "Inconsolata", Arial, sans-serif;
+  color: #DD356E;
+}
+
+
 #page {
   position: relative;
   overflow-x: hidden;
@@ -1481,6 +1492,10 @@ input[type="text"] {
 
 .js .animate-box {
   opacity: 0;
+}
+
+.right1 {
+  margin-left: 100px;
 }
 
 /*# sourceMappingURL=style.css.map */
