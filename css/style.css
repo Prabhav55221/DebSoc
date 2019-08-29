@@ -441,6 +441,23 @@ h1, h2, h3, h4, h5, h6, figure {
     margin-bottom: 30px;
   }
 }
+.depts{
+  width: 50px;
+    height: 50px;
+    padding-top: 12.5px;
+    padding-left: 2.5px;
+    padding-right: 2.5px;
+}
+.pd{
+  height: 65px;
+  padding-bottom: 15px;
+}
+.tech{
+  width: 45px;
+  height: 50px;
+  padding-right: 5px;
+  padding-bottom: 2px;
+}
 #fh5co-features .feature-left .icon i {
   font-size: 30px;
   color: #1a1a1a !important;
