@@ -19,6 +19,11 @@ body {
   background: #fff;
 }
 
+.hnmun {
+  box-shadow: 5px 5px 10px #c9c9c9;
+  background-position: center;
+}
+
 .logo {
   width: 10%;
   height: 60%;
