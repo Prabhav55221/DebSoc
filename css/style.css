@@ -68,6 +68,7 @@ body {
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
+  background-color: #fff;
 }
 .offcanvas #page {
   overflow: hidden;
@@ -432,7 +433,7 @@ h1, h2, h3, h4, h5, h6, figure {
 }
 
 #fh5co-features {
-  background: #FEE856;
+  background: #41b3a3;
 }
 #fh5co-features .services-padding {
   padding: 7em 0;
