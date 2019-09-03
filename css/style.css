@@ -19,6 +19,13 @@ body {
   background: #fff;
 }
 
+.debsoc {
+  color: #000;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  margin: 0 0 20px 0;
+}
+
 .hnmun {
   box-shadow: 5px 5px 10px #c9c9c9;
   background-position: center;
@@ -68,7 +75,9 @@ body {
   -webkit-transition: 0.5s;
   -o-transition: 0.5s;
   transition: 0.5s;
-  background-color: #fff;
+  background: #ADA996;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
 }
 .offcanvas #page {
   overflow: hidden;
@@ -134,7 +143,10 @@ h2, h3, h4, h5, h6, figure {
 }
 
 .fh5co-nav {
-  background: #fff;
+  background: #ADA996;  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, #EAEAEA, #DBDBDB, #F2F2F2, #ADA996); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
 }
 .fh5co-nav .top-menu {
   padding: 28px 0;
