@@ -104,11 +104,18 @@ p {
   margin-bottom: 30px;
 }
 
-h1, h2, h3, h4, h5, h6, figure {
+h1 {
   color: #000;
-  font-family: "Inconsolata", Arial, sans-serif;
-  font-weight: 400;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 500;
   margin: 0 0 20px 0;
+}
+
+h2, h3, h4, h5, h6, figure {
+  color: #000;
+  font-family: 'Biryani', sans-serif;
+  font-weight: 500;
+  margin: 0 0 5px 0;
 }
 
 ::-webkit-selection {
