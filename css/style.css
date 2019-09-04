@@ -19,6 +19,47 @@ body {
   background: #fff;
 }
 
+.span2 {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  color: #DD356E;
+}
+
+/* .caption {
+  color: #fff;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-size: 3rem;
+  margin: 0 0 50px; 0;
+}
+
+.achievements {
+  margin-top: 100px;
+}
+
+.sizing {
+  margin-top: 50px;
+  margin-left: 130px;
+  margin-right: 130px;
+  margin-bottom: 120px;
+}
+
+.carousel-item{
+    height: 600px;
+}
+.carousel-item img{
+    height: 600px;
+} */
+
+.captions {
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 600;
+  font-size: 2rem;
+  margin: 0 0 50px 0;
+  text-align: center;
+  color: #54534b;
+}
+
 .debsoc {
   color: #000;
   font-family: 'Montserrat', sans-serif;
