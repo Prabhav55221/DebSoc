@@ -504,7 +504,7 @@ h2, h3, h4, h5, h6, figure {
 }
 
 #fh5co-features {
-  background: #41b3a3;
+  background: #147568;
 }
 #fh5co-features .services-padding {
   padding: 7em 0;
@@ -1615,6 +1615,12 @@ input[type="text"] {
 
 .right1 {
   margin-left: 60px;
+}
+
+@media only screen and (max-width: 768px) {
+  .newmage {
+    display: none;
+  }
 }
 
 /*# sourceMappingURL=style.css.map */
