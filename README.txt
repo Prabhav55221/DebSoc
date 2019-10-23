@@ -1,11 +1,11 @@
 
-TITLE: 
+## TITLE: 
 DEBSOC WEBSITE
 
-AUTHOR:
+## AUTHOR:
 DESIGNED & DEVELOPED by Tech and Design DebSoc
 
-CREDITS:
+## CREDITS:
 
 Bootstrap
 http://getbootstrap.com/
