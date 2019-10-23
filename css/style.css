@@ -27,7 +27,7 @@ body {
     background-color: transparent;
     font-size: 18px;
     /*padding: 30px 15px;*/
-    color: rgba(0, 0, 0, 0.7);
+    color: #DD356E;
     border: none;
 }
 
@@ -41,9 +41,9 @@ body {
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: #f1f1f1;
+    background-color: transparent;
     min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    box-shadow: 0px 4px 8px 0px rgba(0, 0, 0, 0.2);
     z-index: 1;
 }
 
