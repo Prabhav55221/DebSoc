@@ -150,8 +150,7 @@ body {
 }
 
 .presidents {
-    width: 100%;
-    height: 50%;
+    height: 340px; width: 300px; 
     padding-bottom: 50px;
 }
 
