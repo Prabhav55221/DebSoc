@@ -150,6 +150,8 @@ body {
 }
 
 .presidents {
+    display: block;
+    margin: auto;
     height: 340px; width: 300px; 
     padding-bottom: 50px;
 }
@@ -745,7 +747,6 @@ figure {
 }
 
 .user-frame {
-    width: 90%;
     padding: 3em;
     -webkit-box-shadow: 0px 0px 24px 0px rgba(0, 0, 0, 0.13);
     -moz-box-shadow: 0px 0px 24px 0px rgba(0, 0, 0, 0.13);
