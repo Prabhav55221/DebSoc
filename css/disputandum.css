@@ -1,0 +1,15 @@
+.desc{ 
+    /* display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    margin-left: -20%;
+    width: 60vw; */
+}
+
+@media screen and (min-width: 1300Px)
+{ .desc{
+    width: 40vw;
+    margin-left: -42%;
+}
+}
+
