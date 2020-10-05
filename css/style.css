@@ -12,8 +12,8 @@
 *
 * ======================================================= */
 body {
-    font-family: "Inconsolata", Arial, sans-serif;
-    font-weight: 400;
+    font-family: "Roboto", Arial, sans-serif;
+    font-weight: 500;
     font-size: 18px;
     line-height: 1.7;
     color: #333333;
@@ -71,8 +71,9 @@ body {
 }
 
 .span2 {
-    font-family: 'Montserrat', sans-serif;
-    font-weight: 600;
+    padding-top: 10px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 900;
     color: #DD356E;
 }
 
@@ -162,7 +163,7 @@ body {
     padding: 0;
     text-transform: uppercase;
     font-weight: 700;
-    font-family: "Inconsolata", Arial, sans-serif;
+    font-family: "Roboto", Arial, sans-serif;
     color: #DD356E;
 }
 
@@ -275,7 +276,7 @@ figure {
     padding: 0;
     text-transform: uppercase;
     font-weight: 700;
-    font-family: "Inconsolata", Arial, sans-serif;
+    font-family: "Roboto", Arial, sans-serif;
 }
 
 .fh5co-nav #fh5co-logo a span {
@@ -1664,7 +1665,7 @@ input[type="text"] {
 .btn {
     margin-right: 4px;
     margin-bottom: 4px;
-    font-family: "Inconsolata", Arial, sans-serif;
+    font-family: "Roboto", Arial, sans-serif;
     font-size: 16px;
     font-weight: 400;
     -webkit-border-radius: 30px;
