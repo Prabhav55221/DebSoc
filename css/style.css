@@ -150,6 +150,8 @@ body {
 }
 
 .presidents {
+    display: block;
+    margin: auto;
     height: 340px; width: 300px; 
     padding-bottom: 50px;
 }
@@ -745,7 +747,6 @@ figure {
 }
 
 .user-frame {
-    width: 90%;
     padding: 3em;
     -webkit-box-shadow: 0px 0px 24px 0px rgba(0, 0, 0, 0.13);
     -moz-box-shadow: 0px 0px 24px 0px rgba(0, 0, 0, 0.13);
@@ -904,7 +905,7 @@ figure {
 #fh5co-content-section,
 #fh5co-contact,
 #fh5co-footer {
-    padding: 7em 0;
+    padding: 1em 0;
     clear: both;
 }
 
@@ -919,7 +920,7 @@ figure {
     #fh5co-content-section,
     #fh5co-contact,
     #fh5co-footer {
-        padding: 3em 0;
+        padding: 1em 0;
     }
 }
 
@@ -1307,7 +1308,7 @@ figure {
 
 @media screen and (max-width: 768px) {
     #fh5co-footer .fh5co-footer-links {
-        margin-bottom: 30px;
+        margin-bottom: 10px;
     }
 }
 
@@ -1327,7 +1328,7 @@ figure {
 }
 
 #fh5co-footer .fh5co-widget {
-    margin-bottom: 30px;
+    margin-bottom: 10px;
 }
 
 @media screen and (max-width: 768px) {
@@ -1337,7 +1338,7 @@ figure {
 }
 
 #fh5co-footer .fh5co-widget h4 {
-    margin-bottom: 30px;
+    margin-bottom: 10px;
     font-size: 20px;
 }
 
