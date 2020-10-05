@@ -86,7 +86,6 @@
 		});
 	};
 
-
 	var burgerMenu = function() {
 
 		$('body').on('click', '.js-fh5co-nav-toggle', function(event){
@@ -262,6 +261,13 @@
 		counterWayPoint();
 		fullHeight();
 	});
+
+	$(document).ready(function(){
+		$("#exampleModal").modal('show');
+		if( $(window).width()<500){
+				$("#modal-img").attr("src","./images/Disputandum_small.png")
+		}
+});
 
 
 }());

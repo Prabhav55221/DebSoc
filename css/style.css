@@ -830,9 +830,9 @@ figure {
 }
 
 #fh5co-hero .flexslider .flex-control-nav {
-    top: -30px !important;
+    top: -15px !important;
     z-index: 1000;
-    right: 0;
+    right: 30px;
     float: right;
     width: auto;
 }
