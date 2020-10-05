@@ -28,11 +28,9 @@
 
 #fh5co-slider{
     padding: 2.7em 0em;
-    /* background-color: indigo; */
-    background-image: linear-gradient(to bottom right,  rgb(91, 1, 155) 40%, white);
-    /* background-image: radial-gradient(white 2%, #710ef3); */
-    
+    background-image: radial-gradient(white,  hsl(340, 90%, 52%) 70%);
 }
+
 
 
 #fh5co-hero .flexslider .slider-text-bg .desc {
@@ -50,6 +48,10 @@
 }
 
 #fh5co-content-section{
-    /* background-color: #f3d10e; */
     background-image: radial-gradient(white, #f3d10e 70%);
+}
+
+.carousel-inner>.item>img {
+    width: 30%;
+    height: 30%;
 }
