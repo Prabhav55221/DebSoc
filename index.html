@@ -20,6 +20,9 @@
     <meta name="twitter:card" content="" />
     <!-- <link href="https://fonts.googleapis.com/css?family=Work+Sans:300,400,500,700,800" rel="stylesheet">    -->
     <link href="https://fonts.googleapis.com/css?family=Inconsolata:400,700" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@600&display=swap" rel="stylesheet">
+    <!-- <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap" rel="stylesheet"> -->
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@300;500;700;900&display=swap" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css?family=Biryani:400,700,800|Merriweather+Sans:400,700|Montserrat:400,700,800&display=swap" rel="stylesheet">
     <!-- Animate.css -->
     <link rel="stylesheet" href="css/animate.css">
@@ -37,10 +40,36 @@
     <!--[if lt IE 9]>
     <script src="js/respond.min.js"></script>
     <![endif]-->
+
 </head>
 
 <body>
     <div class="fh5co-loader"></div>
+    <!-- Button trigger modal -->
+<button style="display: none;" type="button" class="btn btn-primary" data-toggle="modal" data-target="#exampleModal">
+    Launch demo modal
+  </button>
+  
+  <!-- Modal -->
+  <div class="modal fade" id="exampleModal" tabindex="-1" role="dialog" aria-labelledby="exampleModalLabel" aria-hidden="true">
+    <div class="modal-dialog" style="width: 80%; margin: auto; margin-top: 2rem;" role="document">
+      <div class="modal-content">
+
+        <div class="modal-header" style="border-bottom: none;">
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+    
+        <div class="modal-body">
+          <img id="modal-img" style="width: 100%;" src="./images/Disputandum.png" alt="">
+        </div>
+        <div class="modal-footer">
+          <button type="button" onclick='location.href="https://debsocnsut.in/";' class="btn btn-primary">Register Now!</button>
+        </div>
+      </div>
+    </div>
+  </div>
     <div id="page">
         <nav class="fh5co-nav" role="navigation">
             <div class="top-menu">
@@ -248,7 +277,7 @@
         <div id="fh5co-wireframe">
             <div class="container">
                 <div class="row animate-box">
-                    <div class="col-md-8 col-md-offset-2 text-center fh5co-heading">
+                    <div style="margin-top: 1rem; margin-bottom: 0;" class="col-md-8 col-md-offset-2 text-center fh5co-heading">
                         <h2>The HNMUN Experience</h2>
                     </div>
                 </div>
