@@ -1,5 +1,4 @@
 .desc{ 
-    background-color: seagreen;
     height: 67%;
     font-family: 'Times New Roman', Times, serif;
     font-size: 1.9rem;
@@ -28,7 +27,7 @@
 
 #fh5co-slider{
     padding: 2.7em 0em;
-    background-image: radial-gradient(white,  hsl(340, 90%, 52%) 70%);
+    /* background-image: radial-gradient(white,  hsl(340, 90%, 52%) 70%); */
 }
 
 
@@ -36,7 +35,7 @@
 #fh5co-hero .flexslider .slider-text-bg .desc {
     margin-top: 9em;
     padding: 2em;
-    background: rgba(108, 184, 255, 0.801);
+    /* background: rgba(108, 184, 255, 0.801); */
     /* color: white; */
     -webkit-box-shadow: 0px 21px 24px 0px rgba(0, 0, 0, 0.13);
     -moz-box-shadow: 0px 21px 24px 0px rgba(0, 0, 0, 0.13);
@@ -47,9 +46,9 @@
     border-radius: 10px;
 }
 
-#fh5co-content-section{
+/* #fh5co-content-section{
     background-image: radial-gradient(white, #f3d10e 70%);
-}
+} */
 
 .carousel-inner>.item>img {
     width: 30%;
