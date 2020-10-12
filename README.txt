@@ -3,9 +3,7 @@
 DEBSOC WEBSITE
 
 ## AUTHOR:
-DESIGNED & DEVELOPED by Tech and Design DebSoc
-Website Development : Prabhav Singh, Ridam Srivastava
-DebSoc Discuss Development : Kanishk, Saatvik
+DESIGNED & DEVELOPED by Technology and Developement Department DebSoc
 
 ## CREDITS:
 
