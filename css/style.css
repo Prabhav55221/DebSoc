@@ -1563,7 +1563,7 @@ input[type="text"] {
 
 .fh5co-nav-toggle.active i::before,
 .fh5co-nav-toggle.active i::after {
-    background: #444;
+    background: #fff;
 }
 
 .fh5co-nav-toggle:hover,
@@ -1582,7 +1582,7 @@ input[type="text"] {
     font: bold 14px/.4 Helvetica;
     text-transform: uppercase;
     text-indent: -55px;
-    background: #252525;
+    background: #fff;
     transition: all .2s ease-out;
 }
 
@@ -1591,7 +1591,7 @@ input[type="text"] {
     content: '';
     width: 25px;
     height: 2px;
-    background: #252525;
+    background: #fff;
     position: absolute;
     left: 0;
     transition: all .2s ease-out;
@@ -1599,12 +1599,12 @@ input[type="text"] {
 
 .fh5co-nav-toggle.fh5co-nav-white>i {
     color: #fff;
-    background: #000;
+    background: fff;
 }
 
 .fh5co-nav-toggle.fh5co-nav-white>i::before,
 .fh5co-nav-toggle.fh5co-nav-white>i::after {
-    background: #000;
+    background: #fff;
 }
 
 .fh5co-nav-toggle i::before {
