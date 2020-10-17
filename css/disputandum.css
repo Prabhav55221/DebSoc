@@ -1,9 +1,10 @@
 .desc{ 
-    height: 67%;
+    height: 20%;
     font-family: 'Times New Roman', Times, serif;
     font-size: 1.9rem;
     color: black;
 }
+
 .desc h2{
     text-decoration: underline;
     text-align: center;
@@ -19,6 +20,7 @@
 
 @media screen and (min-width: 1300Px)
 { .desc{
+    height: 67%;
     width: 40vw;
     margin-left: -42%;
 }
