@@ -103,6 +103,14 @@ body {
     height: 600px;
 } */
 
+@media screen and (min-width: 1300Px)
+{ .desc{
+    height: 67%;
+    width: 40vw;
+    margin-left: -42%;
+}
+}
+
 .captions {
     font-family: 'Montserrat', sans-serif;
     font-weight: 600;
@@ -1234,6 +1242,7 @@ figure {
     -webkit-box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.06);
     -moz-box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.06);
     box-shadow: 0px 2px 5px 0px rgba(0, 0, 0, 0.06);
+    
 }
 
 @media screen and (max-width: 768px) {
