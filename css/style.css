@@ -1457,6 +1457,21 @@ input[type="text"] {
     margin: 0;
 }
 
+
+@media screen and (min-width: 1300Px)
+{ .footer-text{
+    width: 33.3%
+}
+
+.footer{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}
+
+}
+
 #fh5co-offcanvas ul li {
     padding: 0;
     margin: 0;
